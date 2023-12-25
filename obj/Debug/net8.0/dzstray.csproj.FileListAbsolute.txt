@@ -1,0 +1,14 @@
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\bin\Debug\net8.0\dzstray.exe
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\bin\Debug\net8.0\dzstray.deps.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\bin\Debug\net8.0\dzstray.runtimeconfig.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\bin\Debug\net8.0\dzstray.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\bin\Debug\net8.0\dzstray.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.AssemblyInfoInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.AssemblyInfo.cs
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\refint\dzstray.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\dzstray.genruntimeconfig.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzstray\obj\Debug\net8.0\ref\dzstray.dll
